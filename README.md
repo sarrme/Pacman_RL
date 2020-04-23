@@ -1,5 +1,4 @@
 # Pacman_RL
-<source src="https://github.com/sarrme/Pacman_RL/blob/master/demos/NStepNoisyDQN_Trim.mp4" type="video/mp4">
 Solve Pacman game using Reinforcement Learning
 Three models were built: simple Deep Q-Network, Noisy Double Dueling DQN and N-step Double Dueling DQN.
 Simple DQN and N-step Double Dueling DQN were built using keras-rl framework. 
