@@ -1,5 +1,5 @@
 # Pacman_RL
-<img href="pacman.gif"/>
+![](pacman.gif)
 Solve Pacman game using Reinforcement Learning
 Three models were built: simple Deep Q-Network, Noisy Double Dueling DQN and N-step Double Dueling DQN.
 Simple DQN and N-step Double Dueling DQN were built using keras-rl framework. 
