@@ -6,8 +6,8 @@
 
 Three models were built: simple Deep Q-Network, Noisy Double Dueling DQN and N-step Double Dueling DQN.
 Simple DQN and N-step Double Dueling DQN using keras-rl framework. 
-Keras-rl is very simple but it have some problems in versions, so please don't do pip install keras-rl, otherwise some imports will not work.
-You will find keras-rl source code in this repo, so don't panic.
+Keras-rl is very simple, however, It exhibits some issues in versions, so please don't do pip install keras-rl, otherwise some imports will not work.
+You will find keras-rl source code in this repo, no need to import the librabry.
 The second model, Noisy Double Dueling DQN, was built from scratch.
 To test a model, you only need to specify the path in the test.py script and then ```python3 /path/to/test.py```. We used python 3.7.1.
 Finally, you'll find below a list of dependencies, requiered to launch the project:
