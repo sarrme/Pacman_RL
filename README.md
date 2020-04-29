@@ -4,7 +4,7 @@
 
 Solve Pacman game using Reinforcement Learning
 Three models were built: simple Deep Q-Network, Noisy Double Dueling DQN and N-step Double Dueling DQN.
-Simple DQN and N-step Double Dueling DQN were built using keras-rl framework. 
+Simple DQN and N-step Double Dueling DQN using keras-rl framework. 
 Keras-rl est very simple but it have some problems in versions, so please don't do pip install keras-rl, otherwise some imports will not work.
 You will find keras-rl source code in this repo, so don't panic.
 The second model, Noisy Double Dueling DQN, was built from scratch.
